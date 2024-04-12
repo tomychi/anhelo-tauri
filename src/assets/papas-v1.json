@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Papas Anhelo ®",
+    "description": "Porción de papas.",
+    "price": 2790,
+    "id": "4564GDS8",
+    "img": "papas.png"
+  },
+  {
+    "name": "Papas con Cheddar ®",
+    "description": "Porción de papas con cheddar.",
+    "price": 3720,
+    "id": "GUI32IASD",
+    "img": "papasCheddar.png"
+  },
+  {
+    "name": "Pote Cheddar",
+    "description": "Como la pileta de cheddar del MC.",
+    "price": 1000,
+    "id": "GUI32IsASD",
+    "img": "poteCheddar.png"
+  }
+]
